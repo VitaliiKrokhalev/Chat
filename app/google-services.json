@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991320179256",
+    "project_id": "chat-7b861",
+    "storage_bucket": "chat-7b861.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991320179256:android:f0cb48b7e25f41f3769ccd",
+        "android_client_info": {
+          "package_name": "com.sibsutis.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991320179256-ah79n2tvrb3lm8hq6kqfikc84aadks2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZalKpykkPwEgmgAzMOqVXGh7ut04tBbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991320179256-ah79n2tvrb3lm8hq6kqfikc84aadks2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

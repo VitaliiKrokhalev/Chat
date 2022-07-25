@@ -1,0 +1,42 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Chat</string>
+
+    <string name="error">Error</string>
+    <string name="time_out">Timed out waiting for a response from the server</string>
+    <string name="email_already_in_use">The email address is already in use by another account</string>
+    <string name="login_failed">An error has occurred</string>
+    <string name="registration_failed">An error has occurred</string>
+    <string name="field_is_required">Field is required</string>
+    <string name="ok">OK</string>
+
+    <string name="log_in">Log in</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+    <string name="sign_up_link">Don’t have an account?</string>
+
+    <string name="sign_up">Sign up</string>
+    <string name="sign_up_description">Sign up with email and chat with other users</string>
+    <string name="name_hint">Your name</string>
+    <string name="create_password_hint">Create your password</string>
+    <string name="password_requirements">Password must be at least 8 characters</string>
+    <string name="incorrect_name">Name contains invalid characters</string>
+    <string name="incorrect_email">Incorrect email address</string>
+    <string name="incorrect_password">Password must contain numbers and letters</string>
+    <string name="account_created">Account created</string>
+    <string name="confirmation_description">A confirmation link has been sent to your email address</string>
+
+    <string name="menu">Menu</string>
+    <string name="back">Back</string>
+    <string name="chats">Chats</string>
+    <string name="avatar">User\'s picture</string>
+    <string name="message_hint">Message</string>
+    <string name="send">Send message</string>
+    <string name="attach">Attach file</string>
+    <string name="messages_description">List of messages</string>
+    
+    <string name="placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nam aliquam sem et tortor consequat id. Aliquet enim tortor at auctor. Pellentesque diam volutpat commodo sed. Volutpat ac tincidunt vitae semper. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Cras adipiscing enim eu turpis egestas pretium aenean pharetra. Porttitor massa id neque aliquam. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Massa enim nec dui nunc mattis. Duis convallis convallis tellus id interdum velit laoreet. Urna nec tincidunt praesent semper feugiat. Sit amet purus gravida quis blandit. Tincidunt dui ut ornare lectus sit amet est. Diam vel quam elementum pulvinar etiam non. A cras semper auctor neque vitae tempus quam</string>
+    <string name="names">Larry Smith|John|Joe Wilson|Robert Smith|Victor Anderson|Ronald|Joseph Hill|Charles James|Joe Turner|Charles Evans|Jose Higgins|Samuel|Charles Martin|Robert Watson|Jim Johnson|Christian James|Edward|Kevin Willis|Gabriel Hines|William</string>
+    <string name="video_url" tools:ignore="TypographyDashes">https://cdn.videvo.net/videvo_files/video/free/2019-01/large_watermarked/181015_13_Venice%20Beach%20Drone_25_preview.mp4</string>
+</resources>
